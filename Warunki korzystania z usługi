@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Warunki korzystania - MTA Server Project</title>
+</head>
+<body>
+  <h1>Warunki korzystania z usługi</h1>
+  <p>Ostatnia aktualizacja: 2025-08-27</p>
+
+  <h2>1. Postanowienia ogólne</h2>
+  <p>Projekt <strong>MTA Server Project</strong> udostępnia serwer gry Multi Theft Auto: San Andreas (MTA:SA). Dołączając do serwera, akceptujesz poniższe warunki.</p>
+
+  <h2>2. Konto użytkownika</h2>
+  <ul>
+    <li>Gracz jest zobowiązany do podawania prawdziwych i unikalnych danych logowania.</li>
+    <li>Użytkownik ponosi pełną odpowiedzialność za swoje konto.</li>
+    <li>Zabronione jest dzielenie się kontem z innymi osobami.</li>
+  </ul>
+
+  <h2>3. Zasady na serwerze</h2>
+  <ul>
+    <li>Zakaz używania cheatów, botów i exploitów.</li>
+    <li>Zakaz obrażania innych graczy oraz administracji.</li>
+    <li>Administracja ma prawo nałożyć kary (mute, kick, ban) za łamanie zasad.</li>
+  </ul>
+
+  <h2>4. Odpowiedzialność</h2>
+  <p>Administracja serwera nie ponosi odpowiedzialności za utratę danych wynikającą z awarii systemu, ataków lub innych problemów technicznych.</p>
+
+  <h2>5. Kontakt</h2>
+  <p>W sprawach związanych z regulaminem i korzystaniem z serwera prosimy pisać na adres: <a href="mailto:kontakt@mtaserver.pl">kontakt@mtaserver.pl</a></p>
+</body>
+</html>
